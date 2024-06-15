@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useEffect,useState } from "react";
-import Card from "../Components/Card";
-import Layout from "../Components/Layout"
+import Card from "../components/Card";
+import Layout from "../components/Layout";
 import { contenfulCLient } from "../utils/createContenfulClient";
 
 
@@ -69,7 +69,7 @@ function Home(){
 
               
 
-                    <Link to="/post"  className="btn btn-dark mt-4">
+                    <Link to="/posts?page=1"  className="btn btn-dark mt-4">
                              Ver todos os posts
                          
                     </Link>

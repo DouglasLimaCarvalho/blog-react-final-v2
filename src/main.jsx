@@ -8,12 +8,20 @@ import {
 
 import Home from './pages/Home';
 import Post from './pages/Post';
+import PostList from './pages/PostList';
+
+
+
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Home />,
     errorElement: <Home />
+  },
+  {
+    path: "posts",
+    element: <PostList />,
   },
   {
     path: "post/:slug",
