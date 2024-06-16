@@ -12,7 +12,7 @@ Ferramentas utilizadas:
 - node 20
 - npm
 - vite
-- 
+ 
 
 ### Passos para executar local:
 
