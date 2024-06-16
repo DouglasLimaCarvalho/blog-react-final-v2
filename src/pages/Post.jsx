@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link,useParams } from "react-router-dom";
-import Layout from "../components/Layout";
+import Layout from "../Components/Layout";
 import { contenfulCLient } from "../utils/createContenfulClient";
 import { documentToHtmlString } from "@contentful/rich-text-html-renderer";
 

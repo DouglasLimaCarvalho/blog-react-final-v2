@@ -1,8 +1,8 @@
 import {useEffect, useState} from "react";
 import {Link} from "react-router-dom";
-import Card from "../components/Card";
-import Layout from "../components/Layout";
-import Paginator from "../components/Paginator";
+import Card from "../Components/Card";
+import Layout from "../Components/Layout";
+import Paginator from "../Components/Paginator";
 import { contenfulCLient } from "../utils/createContenfulClient";
 
 

@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useEffect,useState } from "react";
-import Card from "../components/Card";
-import Layout from "../components/Layout";
+import Card from "../Components/Card";
+import Layout from "../Components/Layout";
 import { contenfulCLient } from "../utils/createContenfulClient";
 
 
