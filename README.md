@@ -25,7 +25,7 @@ Ferramentas utilizadas:
 2.) Contentful: 
 Foi utilizado para esse blog o headless cms contentful:https://www.contentful.com/
 Necessário gerar as estruturas de dados necessárias ao blog
-Depois gerar as apikey necessárias para acesso das informações
+<p>Depois gerar as apikey necessárias para acesso das informações
 
 4.)Variáveis de ambiente:
 - Criar o arquivo "env.local" com as Variaveis : VITE_SPACE_ID e VITE_ACCESS_TOKEN
